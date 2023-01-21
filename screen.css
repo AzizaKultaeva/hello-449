@@ -1,0 +1,71 @@
+.title {
+    position: absolute;
+width: 420px;
+height: 47px;
+left: 299px;
+top: 114px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 64px;
+display: flex;
+align-items: center;
+
+color: #424242
+}
+
+.image {
+    position: absolute;
+    width: 800px;
+    height: 227px;
+    left: 240px;
+    top: 189px;
+}
+/* .subtitle {
+    position: absolute;
+width: 324px;
+height: 33px;
+left: 274px;
+top: 474px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+} */
+.history {
+    position: absolute;
+width: 384px;
+height: 373px;
+left: 242px;
+top: 448px;
+
+background: #E9EAEC;
+border-radius: 20px;
+}
+/* .parag {
+    position: absolute;
+width: 384px;
+height: 373px;
+left: 242px;
+top: 448px;
+
+background: #E9EAEC;
+border-radius: 20px;
+} */
+
+.example {
+    position: absolute;
+    width: 384px;
+    height: 373px;
+    left: 656px;
+    top: 448px;
+    background: #E9EAEC;
+    border-radius: 20px;
+}
+
